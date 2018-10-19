@@ -59,7 +59,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                 <state key="normal" title="☆">
-                                    <color key="titleColor" red="0.087997190654277802" green="0.42958623170852661" blue="0.69535338878631592" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    <color key="titleColor" red="0.11764705882352941" green="0.43529411764705883" blue="0.68627450980392157" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 </state>
                                 <connections>
                                     <action selector="onClickFav:" destination="BYZ-38-t0r" eventType="touchUpInside" id="nvj-Qr-OkT"/>
